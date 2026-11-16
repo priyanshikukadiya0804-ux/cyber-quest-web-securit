@@ -1,0 +1,6 @@
+{
+  "name": "CYBER QUEST – Web Security Mission",
+  "description": "A bilingual (English & Gujarati) educational cybersecurity game teaching URL inspection, phishing detection, SQLi & XSS awareness, security headers, and SSL/HTTPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
